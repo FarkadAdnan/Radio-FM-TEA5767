@@ -16,7 +16,11 @@ Chapter 3 code_Project_74 The second part 2 of "The Arduino World Book" code_Pro
 -https://www.facebook.com/profile.php?id=100002145048612-
 -https://www.instagram.com/farkadadnan/
 -https://www.linkedin.com/in/farkad-adnan-499972121/
-
+ <p>
+ <a href='-https://www.instagram.com/farkadadnan/'>
+        <img alt="instagram Follow" src="https://img.shields.io/instagram/follow/farkadadnan?label=%40farkadadnan&style=social" alt='instagram' align="center"/>
+    </a>
+</p>
  <p>
  <a href='https://mobile.twitter.com/farkadadnan'>
         <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/farkadadnan?label=%40farkadadnan&style=social" alt='Twitter' align="center"/>
