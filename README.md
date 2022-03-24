@@ -25,14 +25,16 @@ Chapter 3 code_Project_74 The second part 2 of "The Arduino World Book" code_Pro
 # Introduction
 The TEA5767 is a cheap FM receiver that is controlled through the I2C bus.
 # Required Components
-- mbed
-- module TEA5767
-- audio 3.5mm plug jack
-![1](https://user-images.githubusercontent.com/35774039/160003681-45c13a1f-fa16-48d2-9457-8e6a422bea7b.JPG)
+* mbed
+* module TEA5767
+* audio 3.5mm plug jack
+![1](https://user-images.githubusercontent.com/35774039/160004013-f579c02d-607e-4abc-9def-23e16b8562c8.JPG)
+
 # Product Specifications
-- Input Voltage 3.3V
-- I2C (required 10k pull-up resistrors)
-- 32.768 kHz clock crystal
+
+* Input Voltage 3.3V
+* I2C (required 10k pull-up resistrors)
+* 32.768 kHz clock crystal
 
 
 
