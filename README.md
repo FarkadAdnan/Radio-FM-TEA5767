@@ -13,9 +13,9 @@ Chapter 3 code_Project_74 The second part 2 of "The Arduino World Book" code_Pro
 1. #كتاب_عالم_الاردوينو
 2. #كتاب_عالم_الآردوينو
 
-* https://www.facebook.com/profile.php?id=100002145048612-
-* https://www.instagram.com/farkadadnan/
-* https://www.linkedin.com/in/farkad-adnan-499972121/
+* facebook : https://www.facebook.com/profile.php?id=100002145048612-
+* instagram:  https://www.instagram.com/farkadadnan/
+* linkedin : https://www.linkedin.com/in/farkad-adnan-499972121/
 
  <p>
  <a href='https://mobile.twitter.com/farkadadnan'>
