@@ -54,4 +54,21 @@ L-OUT	8	--
 MPXO	9	NC
 ANT	10	--
 
+# How it works
+*  يعمل مستقبل المتغاير الفائق في هذا الوضع: يتم ترشيح الإشارة من الهوائي وتضخيمها ، ثم يتم خلط الإشارة بموجة جيبية ناتجة عن مذبذب محلي (LO) والتي تحولها إلى تردد وسيط محدد (IF). يتم ترشيح إشارة IF نفسها وتضخيمها وربما معالجتها بطرق إضافية. يستخدم مزيل التشكيل إشارة IF بدلاً من تردد الراديو الأصلي لإعادة إنشاء نسخة من المعلومات الأصلية.
+* The superheterodyne receiver works in this mode: the signal from the antenna is filtered and amplified, then the signal is mixed with a sine wave pruduced from a local oscillator (LO) that shift it to a specific intermediate frequency (IF). The IF signal is itself filtered and amplified and possibly processed in additional ways. The demodulator uses the IF signal rather than the original radio frequency to recreate a copy of the original information.
+ * The Frequency is calculated by the following formula that return a 14bits word:
+![formula](https://user-images.githubusercontent.com/35774039/160005369-b63acc61-af8b-45ba-8cca-8689ee7b4657.jpg)
+
+# C# Program
+You can download the program here: RadioFM v1.0
+Is required Microsoft .NET Framework 3.5 or above.
+![screenradio1](https://user-images.githubusercontent.com/35774039/160005490-a35d66d7-be41-4145-9bbd-1620a23f1eca.jpg)
+![screenradio2](https://user-images.githubusercontent.com/35774039/160005492-acc3fd84-b7ea-4407-abb3-e57301d57060.jpg)
+
+
+# Code Arduino
+'''
+
+'''
 
