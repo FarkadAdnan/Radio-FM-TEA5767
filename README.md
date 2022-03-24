@@ -41,5 +41,17 @@ The TEA5767 is a cheap FM receiver that is controlled through the I2C bus
 * I2C (required 10k pull-up resistrors)
 * 32.768 kHz clock crystal
 
+# Pin Description
+Name	TEA5767 pin	MBED pin
+SDA	1	P28
+SCL	2	P27
+BUSMODE	3	GND
+W/R	4	NC
+VCC	5	VOUT
+GND	6	GND
+R-OUT	7	--
+L-OUT	8	--
+MPXO	9	NC
+ANT	10	--
 
 
